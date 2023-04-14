@@ -1,4 +1,3 @@
-import pprint
 import requests
 from fake_headers import Headers
 from bs4 import BeautifulSoup
